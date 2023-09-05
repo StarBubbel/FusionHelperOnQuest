@@ -17,3 +17,5 @@ Have Fun!
 Update:
 
 SteamCMD does not work and Fusion Helper Arm64 was taken down before I downloaded it.
+
+I Gotta use normal steam.
