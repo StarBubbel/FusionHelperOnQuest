@@ -13,3 +13,7 @@ Login to steam and download steamvr(On SteamCMD wiki just search it up)
 Run Fusion Helper ARM 64
 Have Fun!
 
+
+Update:
+
+SteamCMD does not work and Fusion Helper Arm64 was taken down before I downloaded it.
